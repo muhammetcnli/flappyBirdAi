@@ -1,6 +1,6 @@
 # Flappy Bird AI with NEAT-Python
 
-This repository contains a Flappy Bird game clone and an implementation of an AI that learns to play the game using the NEAT algorithm. The project is built using Python and the NEAT-Python library.
+This repository contains a Flappy Bird game clone and an implementation of an AI that learns to play the game using the NEAT algorithm. The project is built using Python and the NEAT-Python library. and this is a deneme branch
 
 ## Table of Contents
 
